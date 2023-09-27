@@ -1,2 +1,3 @@
 # -SpamGuard-An-Ensemble-Based-Email-Spam-Classifier-
-"Email Spam Classifier: Enhance email security with an ensemble-based solution using BoW and TF-IDF. Stop spam in its tracks!"
+"I am excited to present a brief overview of our project, the "Email Spam Classifier," which aims to enhance email communication by automatically filtering out unwanted spam messages. In this project, we have harnessed the power of ensemble techniques and leveraged both the Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) representations to create a robust and efficient email spam classifier."
+Our Email Spam Classifier represents the culmination of these techniques, providing an effective and efficient solution to the ever-growing problem of email spam. By combining ensemble methods with BoW and TF-IDF, we have created a system that can reliably identify and filter out unwanted spam emails, ultimately improving email communication for users.
